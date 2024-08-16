@@ -59,4 +59,4 @@ set_dsc_rate=0 (0~ 6: DSC FRL rate)
 set_freesync_edid=0 (0: no change, 1: hack freesync v1 to hf-vsdb)
 set_vrr_edid=x,y (x: min value, y: max value)
 set_fva_edid=0 (0: no change, 1:enable)
-set_qms_edid=0 (0: no change, 1:enable)
+set_qms_edid=0 (0: no change, 1:enable
